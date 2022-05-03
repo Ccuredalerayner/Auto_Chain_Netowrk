@@ -1,0 +1,42 @@
+Training dataset:
+    data_size = 1000
+    c = 0.1
+    c_change = 0.001
+    d = 0.1
+    d_change = 0.000
+    e = 0.1
+    e_change = 0.002
+
+Mega ESN - A to B feedback ################
+    0.3603525355985882
+
+Mega ESN - A to B to A  feedback
+    0.48587931268420304
+
+Single ESN - no feedback
+    0.23521980343654714
+
+Single ESN - feedback
+    0.33600474010681447
+
+Testing dataset:
+    data_size = 1000
+    c = 0.1
+    c_change = 0.003
+    d = 0.1
+    d_change = 0.001
+    e = 0.1
+    e_change = 0.001
+
+Mega ESN - A to B feedback
+    1.086109378874803
+
+Mega ESN - A to B to A feedback
+    1.1478011119602514
+
+Single ESN - no autoencoder
+    1.896766406977629
+
+Single ESN - feedback
+    1.2096950389220682
+
