@@ -1,0 +1,4 @@
+file name A,file name B,esn type,dataset,feedback,test/train,loss
+saves/ESN_A_2_esn_06-09-2021_15-47-26.pth,saves/ESN_B_2_esn_06-09-2021_15-47-26.pth,standard,A,no,train,0.2396066389175421
+saves/ESN_A_2_esn_06-09-2021_15-47-26.pth,saves/ESN_B_2_esn_06-09-2021_15-47-26.pth,standard,B,no,test,1.4612045596806165
+saves/ESN_A_2_esn_06-09-2021_15-47-26.pth,saves/ESN_B_2_esn_06-09-2021_15-47-26.pth,standard,C,no,test,0.47809483488087423

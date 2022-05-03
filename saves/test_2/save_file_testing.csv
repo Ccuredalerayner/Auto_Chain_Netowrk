@@ -1,0 +1,7 @@
+file name,esn type,dataset,feedback,test/train,loss
+31-08-2021_16-42-49,mega,A,no,train,0.656633300073263
+saves/ESN_C_06-09-2021_13-44-53.pth,standard,A,no,train,0.4447941782108467
+31-08-2021_16-42-49,mega,B,no,train,0.9663507458092067
+saves/ESN_C_06-09-2021_13-44-53.pth,standard,B,no,train,2.0417169047263912
+31-08-2021_16-42-49,mega,C,no,train,0.5271500138000982
+saves/ESN_C_06-09-2021_13-44-53.pth,standard,C,no,train,0.9289387457196168
